@@ -1,0 +1,1 @@
+Start-Process -FilePath "C:\SyncDrive\sync-files.bat" -WindowStyle Hidden # C:\SyncDrive\sync-files.bat is the path to your batch file

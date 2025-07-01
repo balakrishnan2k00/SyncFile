@@ -1,0 +1,2 @@
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.Run "powershell.exe -ExecutionPolicy Bypass -File ""C:\SyncDrive\run-sync.ps1""", 0, False ' C:\SyncDrive\run-sync.ps1 is the path to your PowerShell script
